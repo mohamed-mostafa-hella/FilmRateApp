@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#374a5f</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="stare">#ffff8800</color>
+    <color name="toolBar">#ebf3fb</color>
+    <color name="underImageBar">#00334e</color>
+    <color name="background">#d0dceb </color>
+    <color name="textColor">#374a5f</color>
+    <color name="toolBar2">#f8f8f8</color>
+    <color name="background2">#f8f8f8 </color>
+
+</resources>

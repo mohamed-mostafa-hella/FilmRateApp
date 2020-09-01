@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <!-- For the style of text view -->
+    <style name="textViewStyle">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+
+    <!-- For the title bar -->
+    <style name="toolBarTheme" parent="AlertDialog.AppCompat.Light" >
+        <item name="android:textColorPrimary">#fff</item>
+        <item name="android:textColorSecondary">#fff</item>
+    </style>
+
+
+    <!-- For the popup menu-->
+    <style name="popUpMenu" parent="Theme.AppCompat.Light" >
+        <item name="android:textColorPrimary">#000</item>
+        <item name="android:background">#fff</item>
+    </style>
+
+</resources>
