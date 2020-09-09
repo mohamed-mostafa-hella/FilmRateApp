@@ -1,7 +1,7 @@
 # FilmRateApp
 This application allows you to view the best-rated movies on YTS and view reviews and some features about them.
 
-# android aplication
+# android aplication Using
 - Java
 - MVVM
 - Retrofit
