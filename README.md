@@ -13,10 +13,8 @@ This application allows you to view the best-rated movies on YTS and view review
 
 # contact
 
-name : mohamed mostafa elsayed hella .
-
+name : mohamed mostafa elsayed hella.
 e_mail : mohamedmostafa6198@gmail.com.
-
 phone : +20_01009884619.
 
 Codeforces handel is mohamed_mostafa_98.
