@@ -21,6 +21,6 @@ phone : +20_01009884619.
 
 Codeforces handel is mohamed_mostafa_98.
 
-any ask please contact me .
+Any question please contact me .
 
 # Kep going
