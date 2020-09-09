@@ -9,7 +9,9 @@ This application allows you to view the best-rated movies on YTS and view review
 - clean code
 
 # Screenshot
+![Screenshot](imgs/Capture3.PNG)
 
+![Screenshot](imgs/Capture4.PNG)
 
 # contact
 
