@@ -24,5 +24,3 @@ phone : +20_01009884619.
 Codeforces handel is mohamed_mostafa_98.
 
 Any question please contact me .
-
-# Keep going
